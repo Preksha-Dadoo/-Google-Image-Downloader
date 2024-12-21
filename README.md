@@ -9,7 +9,7 @@ It aims to develop a machine learning model that accurately predicts the orienta
 Predict the position of a human face (Right, Left, Front).
 Utilize a pre-trained deep learning model for enhanced accuracy.
 
-##Project Overview
+## Project Overview
 The pipeline executes the following tasks:
 
 Download Images: Downloads images from the internet based on a given keyword.
@@ -18,5 +18,5 @@ Resize Images: Scales images by a specified percentage.
 Compress Files: Archives the processed images into a ZIP file.
 Send Email: Emails the ZIP file as an attachment to a specified recipient.
 
-##License
+## License
 This project is licensed under the MIT License.
